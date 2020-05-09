@@ -512,7 +512,7 @@
                 }, [s("a", {
                     staticClass: "page-hover",
                     attrs: {
-                        href: "https://drive.google.com/file/d/1knWfSOQYt3iBE4uNoaQsJvhkaGkreVsB/view?usp=sharing",
+                        href: "docs/mj_2020.pdf",
                         target: "_blank"
                     }
                 }, [o._v("Résumé")]), s("span", {
