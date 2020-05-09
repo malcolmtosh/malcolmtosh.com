@@ -512,7 +512,7 @@
                 }, [s("a", {
                     staticClass: "page-hover",
                     attrs: {
-                        href: "https://drive.google.com/file/d/1XmkYQ4hOBQEUrk8FXXlLyQRUPdzeK1dx/view?usp=sharing",
+                        href: "https://drive.google.com/file/d/1knvAnAOmhTMd6Ltk3SwJAszhGm6FsN8Z/view?usp=sharing",
                         target: "_blank"
                     }
                 }, [o._v("Résumé")]), s("span", {
