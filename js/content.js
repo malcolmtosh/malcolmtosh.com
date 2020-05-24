@@ -512,10 +512,10 @@
                 }, [s("a", {
                     staticClass: "page-hover",
                     attrs: {
-                        href: "docs/mj_2020.pdf",
+                        href: "https://dribbble.com/malcolmtosh",
                         target: "_blank"
                     }
-                }, [o._v("Résumé")]), s("span", {
+                }, [o._v("Work")]), s("span", {
                     staticClass: "color color-4"
                 }, [o._v(".")])])])], 1)
             },
