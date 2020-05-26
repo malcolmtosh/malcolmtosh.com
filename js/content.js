@@ -328,184 +328,176 @@
                     staticClass: "color color-3"
                 }, [o._v("b")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("u")]), s("span", {
+                }, [o._v("r")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("s")]), s("span", {
+                }, [o._v("a")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("i")]), s("span", {
-                    staticClass: "color color-2"
                 }, [o._v("n")]), s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("e")]), s("span", {
-                    staticClass: "color color-4"
-                }, [o._v("s")]), s("span", {
-                    staticClass: "color color-5"
-                }, [o._v("s")]), s("span", {
-                    staticClass: "color color-1"
-                }, [o._v("e")]), s("span", {
                     staticClass: "color color-2"
+                }, [o._v("d")]), s("span", {
+                    staticClass: "color color-3"
                 }, [o._v("s")])]), s("div", {
                     key: "4",
                     staticClass: "content-word color-secondary"
                 },  [s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("d")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("e")]), s("span", {
+                }, [o._v("d")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("s")]), s("span", {
+                }, [o._v("e")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("i")]), s("span", {
+                }, [o._v("s")]), s("span", {
                     staticClass: "color color-2"
-                }, [o._v("g")]), s("span", {
+                }, [o._v("i")]), s("span", {
                     staticClass: "color color-3"
+                }, [o._v("g")]), s("span", {
+                    staticClass: "color color-4"
                 }, [o._v("n")])]), s("div", {
                     key: "5",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-4"
+                    staticClass: "color color-5"
                 }, [o._v("d")]), s("span", {
-                    staticClass: "color color-5"
-                }, [o._v("i")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("g")]), s("span", {
-                    staticClass: "color color-2"
                 }, [o._v("i")]), s("span", {
+                    staticClass: "color color-2"
+                }, [o._v("g")]), s("span", {
                     staticClass: "color color-3"
-                }, [o._v("t")]), s("span", {
+                }, [o._v("i")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("a")]), s("span", {
+                }, [o._v("t")]), s("span", {
                     staticClass: "color color-5"
+                }, [o._v("a")]), s("span", {
+                    staticClass: "color color-1"
                 }, [o._v("l")])]), s("div", {
                     key: "6",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-1"
+                    staticClass: "color color-2"
                 }, [o._v("p")]), s("span", {
-                    staticClass: "color color-2"
+                    staticClass: "color color-3"
                 }, [o._v("r")]), s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("o")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("d")]), s("span", {
+                }, [o._v("o")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("u")]), s("span", {
+                }, [o._v("d")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("c")]), s("span", {
+                }, [o._v("u")]), s("span", {
                     staticClass: "color color-2"
-                }, [o._v("t")]), s("span", {
+                }, [o._v("c")]), s("span", {
                     staticClass: "color color-3"
+                }, [o._v("t")]), s("span", {
+                    staticClass: "color color-4"
                 }, [o._v("s")])]), s("div", {
                     key: "7",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-4"
-                }, [o._v("t")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("h")]), s("span", {
+                }, [o._v("t")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("a")]), s("span", {
+                }, [o._v("h")]), s("span", {
                     staticClass: "color color-2"
+                }, [o._v("a")]), s("span", {
+                    staticClass: "color color-3"
                 }, [o._v("t")])]), s("div", {
                     key: "8",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("c")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("r")]), s("span", {
+                }, [o._v("c")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("e")]), s("span", {
+                }, [o._v("r")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("a")]), s("span", {
+                }, [o._v("e")]), s("span", {
                     staticClass: "color color-2"
-                }, [o._v("t")]), s("span", {
+                }, [o._v("a")]), s("span", {
                     staticClass: "color color-3"
+                }, [o._v("t")]), s("span", {
+                    staticClass: "color color-4"
                 }, [o._v("e")])]), s("div", {
                     key: "9",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-4"
+                    staticClass: "color color-5"
                 }, [o._v("d")]), s("span", {
-                    staticClass: "color color-5"
+                    staticClass: "color color-1"
                 }, [o._v("e")]), s("span", {
-                    staticClass: "color color-1"
+                    staticClass: "color color-2"
                 }, [o._v("l")]), s("span", {
-                    staticClass: "color color-2"
+                    staticClass: "color color-3"
                 }, [o._v("i")]), s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("g")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("h")]), s("span", {
+                }, [o._v("g")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("t")]), s("span", {
+                }, [o._v("h")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("f")]), s("span", {
+                }, [o._v("t")]), s("span", {
                     staticClass: "color color-2"
-                }, [o._v("u")]), s("span", {
+                }, [o._v("f")]), s("span", {
                     staticClass: "color color-3"
+                }, [o._v("u")]), s("span", {
+                    staticClass: "color color-4"
                 }, [o._v("l")])]), s("div", {
                     key: "10",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-4"
-                }, [o._v("e")]), s("span", {
                     staticClass: "color color-5"
+                }, [o._v("e")]), s("span", {
+                    staticClass: "color color-1"
                 }, [o._v("x")]), s("span", {
-                    staticClass: "color color-1"
+                    staticClass: "color color-2"
                 }, [o._v("p")]), s("span", {
-                    staticClass: "color color-2"
-                }, [o._v("e")]), s("span", {
                     staticClass: "color color-3"
+                }, [o._v("e")]), s("span", {
+                    staticClass: "color color-4"
                 }, [o._v("r")]), s("span", {
-                    staticClass: "color color-4"
-                }, [o._v("i")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("e")]), s("span", {
+                }, [o._v("i")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("n")]), s("span", {
-                    staticClass: "color color-2"
-                }, [o._v("c")]), s("span", {
-                    staticClass: "color color-3"
                 }, [o._v("e")]), s("span", {
+                    staticClass: "color color-2"
+                }, [o._v("n")]), s("span", {
+                    staticClass: "color color-3"
+                }, [o._v("c")]), s("span", {
                     staticClass: "color color-4"
+                }, [o._v("e")]), s("span", {
+                    staticClass: "color color-5"
                 }, [o._v("s")])]), s("div", {
                     key: "11",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-5"
-                }, [o._v("f")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("o")]), s("span", {
+                }, [o._v("f")]), s("span", {
                     staticClass: "color color-2"
+                }, [o._v("o")]), s("span", {
+                    staticClass: "color color-3"
                 }, [o._v("r")])]), s("div", {
                     key: "12",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("t")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("h")]), s("span", {
+                }, [o._v("t")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("e")]), s("span", {
+                }, [o._v("h")]), s("span", {
                     staticClass: "color color-1"
-                }, [o._v("i")]), s("span", {
+                }, [o._v("e")]), s("span", {
                     staticClass: "color color-2"
+                }, [o._v("i")]), s("span", {
+                    staticClass: "color color-3"
                 }, [o._v("r")])]), s("div", {
                     key: "13",
                     staticClass: "content-word color-secondary"
                 }, [s("span", {
-                    staticClass: "color color-3"
-                }, [o._v("u")]), s("span", {
                     staticClass: "color color-4"
-                }, [o._v("s")]), s("span", {
+                }, [o._v("u")]), s("span", {
                     staticClass: "color color-5"
-                }, [o._v("e")]), s("span", {
-                    staticClass: "color color-1"
-                }, [o._v("r")]), s("span", {
-                    staticClass: "color color-2"
                 }, [o._v("s")]), s("span", {
+                    staticClass: "color color-1"
+                }, [o._v("e")]), s("span", {
+                    staticClass: "color color-2"
+                }, [o._v("r")]), s("span", {
                     staticClass: "color color-3"
+                }, [o._v("s")]), s("span", {
+                    staticClass: "color color-4"
                 }, [o._v(".")])]), s("div", {
                     key: "14",
                     staticClass: "content-word"
@@ -516,7 +508,7 @@
                         target: "_blank"
                     }
                 }, [o._v("Work")]), s("span", {
-                    staticClass: "color color-4"
+                    staticClass: "color color-5"
                 }, [o._v(".")])])])], 1)
             },
             k = [],
