@@ -526,7 +526,7 @@
                     attrs: {
                         type: "hidden",
                         id: "emailInput",
-                        value: "malcolmdjohnson@gmail.com"
+                        value: "malcolmtosh@gmail.com"
                     }
                 })
             },
@@ -608,7 +608,7 @@
                     on: {
                         click: o.removeClipboard
                     }
-                }, [s("span", [s("strong", [o._v("malcolmdjohnson@gmail.com")]), o._v(" copied to clipboard 👌🏽")])]) : o._e()])
+                }, [s("span", [s("strong", [o._v("malcolmtosh@gmail.com")]), o._v(" copied to clipboard 👌🏽")])]) : o._e()])
             },
             Y = [],
             R = {
@@ -661,8 +661,8 @@
                     loading: !0,
                     clipboard: !1,
                     social: [{
-                        title: "malcolmdjohnson@gmail.com",
-                        link: "mailto: malcolmdjohnson@gmail.com",
+                        title: "malcolmtosh@gmail.com",
+                        link: "mailto: malcolmtosh@gmail.com",
                         class: "page-hover page-copy"
                     }]
                 },
@@ -725,7 +725,7 @@
             }
         });
         new Event("SWUpdated");
-        e["a"].config.productionTip = !0, console.log("%c Available for freelance work - malcolmdjohnson@gmail.com", "background: #222; color: #bada55; padding: 1rem;"), new e["a"]({
+        e["a"].config.productionTip = !0, console.log("%c Available for freelance work - malcolmtosh@gmail.com", "background: #222; color: #bada55; padding: 1rem;"), new e["a"]({
             store: eo,
             render: function(o) {
                 return o(so)
