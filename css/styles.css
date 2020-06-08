@@ -197,7 +197,7 @@ html {
 body {
     max-width: 100%;
     min-height: 100%;
-    font-family: Helvetica, gilroy-bold, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto;
+    font-family: "Helvetica Neue", Helvetica, -apple-system, system-ui, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif;
     font-size: calc(1.4rem + .5vw)
 }
 
