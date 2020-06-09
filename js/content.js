@@ -507,7 +507,7 @@
                         href: "https://dribbble.com/malcolmtosh",
                         target: "_blank"
                     }
-                }, [o._v("Work")]), s("span", {
+                }, [o._v("Dribbble")]), s("span", {
                     staticClass: "color color-5"
                 }, [o._v(".")])])])], 1)
             },
