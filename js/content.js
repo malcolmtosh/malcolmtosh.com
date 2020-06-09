@@ -508,7 +508,18 @@
                         target: "_blank"
                     }
                 }, [o._v("Dribbble")]), s("span", {
-                    staticClass: "color color-5"
+                    staticClass: "color color-2"
+                }, [o._v(".")])]), s("div", {
+                    key: "15",
+                    staticClass: "content-word"
+                }, [s("a", {
+                    staticClass: "page-hover",
+                    attrs: {
+                        href: "https://www.linkedin.com/in/malcolmdjohnson/",
+                        target: "_blank"
+                    }
+                }, [o._v("LinkedIn")]), s("span", {
+                    staticClass: "color color-3"
                 }, [o._v(".")])])])], 1)
             },
             k = [],
