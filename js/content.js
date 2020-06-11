@@ -519,7 +519,7 @@
                         target: "_blank"
                     }
                 }, [o._v("GitHub")]), s("span", {
-                    staticClass: "color color-2"
+                    staticClass: "color color-3"
                 }, [o._v(".")])]), s("div", {
                     key: "15",
                     staticClass: "content-word"
@@ -530,7 +530,7 @@
                         target: "_blank"
                     }
                 }, [o._v("LinkedIn")]), s("span", {
-                    staticClass: "color color-3"
+                    staticClass: "color color-4"
                 }, [o._v(".")])])])], 1)
             },
             k = [],
