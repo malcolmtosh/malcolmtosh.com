@@ -510,6 +510,17 @@
                 }, [o._v("Dribbble")]), s("span", {
                     staticClass: "color color-2"
                 }, [o._v(".")])]), s("div", {
+                    key: "14",
+                    staticClass: "content-word"
+                }, [s("a", {
+                    staticClass: "page-hover",
+                    attrs: {
+                        href: "https://github.com/malcolmtosh/",
+                        target: "_blank"
+                    }
+                }, [o._v("GitHub")]), s("span", {
+                    staticClass: "color color-2"
+                }, [o._v(".")])]), s("div", {
                     key: "15",
                     staticClass: "content-word"
                 }, [s("a", {
