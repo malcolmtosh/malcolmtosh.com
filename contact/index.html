@@ -181,8 +181,7 @@ End Google Tag Manager -->
                     <div class="page-view-inner">
                         <div id="contact">
             <div class="container form-layer-container steps-state">
-                <form name='contact-form' class='column form-column' method='post' data-netlify='true'><input type='hidden' name='form-name' value='contact-form' />
-                    <!-- <input style="display: none" name="bot-field" /> -->
+                <form name='contact-form' class='column form-column' method='post' data-netlify='true' data-netlify-honeypot='bot-field'><input type='hidden' name='form-name' value='contact-form' />
                     <h1 class="h1">Get in touch</h1>
                     <p>Our clients get the best results when they have our team dedicated to their business for extended periods of time. This is why we are looking for ongoing collaboration where our professionals are like your team members who just happen to be remote. Ready to move forward?</p>
         
@@ -198,13 +197,13 @@ End Google Tag Manager -->
                         <label class="input">
                             <input id="form_email" name="email" pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$" placeholder="email@company.com" required type="email">
                             <span>Email</span>
-                            <!-- <p class="input-caption">Make sure you use your company email address.</p> -->
+                            <p class="input-caption">Please enter a valid email address.</p>
                         </label>
                     </div><br />
         
-                    <div class="how-find-us-block">
+                    <div class="message">
                         <label class="input">
-                            <input id="form_how-find-us" name="howFindUs" placeholder="Message" type="text">
+                            <input id="form_message" name="formMessage" placeholder="Message" type="text">
                             <span>Message</span>
                         </label>
                     </div>
